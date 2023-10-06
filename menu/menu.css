@@ -1,0 +1,22 @@
+.tabla, body{
+    background-color: rgb(0, 0, 0);
+
+
+    
+}
+a{
+    font-family: Century Ghotic;
+    text-shadow: 3px 5px 5px rgb(212, 175, 55);
+    font-size: 20px;
+    text-decoration: none;
+    color: rgba(212, 175, 55);
+    
+}
+
+/* tr{
+
+    /* padding: 25px 0px; */
+/* } */ 
+ img{
+    margin: 7% 0% 7% 0%;
+ }
